@@ -60,17 +60,17 @@
 
 				<!-- Icons -->
 					<ul class="icons">
-						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-						<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+						{% if site.social.twitter %}<li><a href="{{ site.social.twitter }}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>{% endif %}  
+						{% if site.social.facebook %}<li><a href="{{ site.social.facebook }}" class="icon fa-facebook"><span class="label">Facebook</span></a></li>{% endif %}  
+						{% if site.social.github %}<li><a href="{{ site.social.github }}" class="icon fa-github"><span class="label">GitHub</span></a></li>{% endif %}  
+						{% if site.social.linkded-in %}<li><a href="{{ site.social.linkded-in }}" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>{% endif %}  
+						{% if site.social.google-plus %}<li><a href="{{ site.social.google-plus }}" class="icon fa-google-plus"><span class="label">Google+</span></a></li>{% endif %}  
 					</ul>
 
 				<!-- Copyright -->
 					<div class="copyright">
 						<ul class="menu">
-							<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li> Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+							<li>&copy; Ohio University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li> Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
 						</ul>
 					</div>
 

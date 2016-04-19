@@ -1,4 +1,12 @@
-name: Arcana
-description: Arcana template for Jekyll
+name: GRID Lab
+description: The GRID Lab
 paginate: 10
-baseurl: '/Arcana-Jekyll-Theme'
+baseurl: ''
+
+
+social:
+  twitter: https://www.twitter.com/gridlab
+  facebook:
+  github:
+  linkded-in :
+  google-plus:
