@@ -1,4 +1,4 @@
-name: GRID Lab
+title: GRID Lab
 description: The GRID Lab
 paginate: 10
 baseurl: ''
@@ -10,3 +10,23 @@ social:
   github:
   linkded-in :
   google-plus:
+    
+collections:
+  tech:
+    permalink: /tech/:path/
+    output: true
+  projects:
+    permalink: /projects/:path/
+    output: true
+  team:
+
+defaults:
+  - scope:
+      type: tech
+    values:
+      layout: left-sidebar
+      
+  - scope:
+      type: projects
+    values:
+      layout: left-sidebar

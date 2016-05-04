@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Arcana by HTML5 UP</title>
+		<title>{{ site.title }} - {{ page.title }}</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -37,28 +37,31 @@
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 							<li>
-								<a href="">Dropdown</a>
+								<a href="">About</a>
 								<ul>
-									<li><a href="#">Lorem dolor</a></li>
-									<li><a href="#">Magna phasellus</a></li>
-									<li><a href="#">Etiam sed tempus</a></li>
-									<li>
-										<a href="">Submenu</a>
-										<ul>
-											<li><a href="#">Lorem dolor</a></li>
-											<li><a href="#">Phasellus magna</a></li>
-											<li><a href="#">Magna phasellus</a></li>
-											<li><a href="#">Etiam nisl</a></li>
-											<li><a href="#">Veroeros feugiat</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Veroeros feugiat</a></li>
+									<li><a href="/about/mission/">Mission</a></li>
+									<li><a href="/about/team/">Team</a></li>
 								</ul>
 							</li>
-							<li {% if current[1] == 'blog' %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
-							<li {% if current[1] == '/left-sidebar/' %}class="current"{% endif %}><a href="{{ site.baseurl }}/left-sidebar/">Left Sidebar</a></li>
-							<li {% if current[1] == '/right-sidebar/' %}class="current"{% endif %}><a href="{{ site.baseurl }}/right-sidebar/">Right Sidebar</a></li>
-							<li {% if current[1] == '/no-sidebar/' %}class="current"{% endif %}><a href="{{ site.baseurl }}/no-sidebar/">No Sidebar</a></li>
+							<li>
+								<a href="">Projects</a>
+								<ul>
+									{% for project in site.projects %}
+										<li><a href="{{ project.url }}">{{ project.title }}</a></li>
+									{% endfor %}
+								</ul>
+							</li>
+							<li>
+								<a href="">Tech</a>
+								<ul>
+									{% for tech in site.tech %}
+										<li><a href="{{ tech.url }}">{{ tech.title }}</a></li>
+									{% endfor %}
+								</ul>
+							</li>
+							
+							<li {% if current[1] == 'news' %}class="current"{% endif %}><a href="{{ site.baseurl }}/news">News</a></li>
+							<li><a href="https://www.assembla.com/login" target="_new" class="external">Assembla</a></li>
 						</ul>
 					</nav>
 

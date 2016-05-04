@@ -50,6 +50,11 @@
 			color: #37c0fb;
 			border-bottom-color: transparent;
 		}
+    
+    .external {
+      padding-left: 5em;
+      background-color: rgba(68,68,75,.5);
+    }
 
 	strong, b {
 		font-weight: 600;
