@@ -5,3 +5,28 @@ title: GRID Lab Team
 subtitle: 
 banner: /assets/images/banner.jpg
 ---
+
+<h1>Leadership</h1>
+<ul>
+	{% assign leadership = site.data.team | where:"status","leadership" %}
+	{% for member in leadership %}
+		{% include member.html member=member %}
+	{% endfor %}
+</ul>
+
+<h1>Partners</h1>
+<ul>
+	{% assign partners = site.data.team | where:"status","partner" | sort: "name" %}
+	{% for member in partners %}
+		{% include member.html member=member %}
+	{% endfor %}
+</ul>
+
+
+<h1>Student</h1>
+<ul>
+	{% assign students = site.data.team | where:"status","student" | sort: "name" %}
+	{% for member in students %}
+		{% include member.html member=member %}
+	{% endfor %}
+</ul>
