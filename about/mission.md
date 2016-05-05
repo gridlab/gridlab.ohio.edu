@@ -3,7 +3,6 @@ permalink: /about/mission/
 layout: left-sidebar
 title: About GRID Lab
 subtitle: 
-banner: /assets/images/banner.jpg
 ---
 
 The Game Research and Immersive Design (GRID) Lab, an initiative of Ohio University’s Scripps College of Communication, was developed by School of Media Arts and Studies faculty and staff to provide the Appalachian Ohio region with training, education, and an opportunity to develop technical and creative skills with digital game technology. The GRID Lab serves as an innovative and creative center for undergraduate and graduate students, faculty, and staff research and project development.

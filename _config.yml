@@ -22,11 +22,24 @@ collections:
 
 defaults:
   - scope:
+      type: pages
+    values:
+      banner: /assets/images/gl-banner-2-small.jpg
+
+  - scope:
       type: tech
     values:
       layout: left-sidebar
+      banner: /assets/images/gl-banner-1-small.jpg
       
   - scope:
       type: projects
     values:
       layout: left-sidebar
+      banner: /assets/images/gl-banner-2-small.jpg
+  
+  - scope:
+      type: posts
+    values:
+      banner: /assets/images/default-hacker.jpg
+      layout: post

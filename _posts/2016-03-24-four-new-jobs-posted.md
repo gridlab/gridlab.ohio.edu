@@ -1,7 +1,5 @@
 ---
 title: 4 New GRID Lab PACE Positions in Virtual Reality – Starting Fall 2016
-featured: /assets/images/pic03.jpg
-layout: post
 ---
 
 Interested in Virtual and Augmented Reality?
