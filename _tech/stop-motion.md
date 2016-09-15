@@ -1,4 +1,0 @@
----
-title: Stop Motion
-subtitle:
----
