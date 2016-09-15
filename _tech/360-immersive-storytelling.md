@@ -15,6 +15,8 @@ subtitle:
 
 The IMI produces 360**<sup>O</sup>** videos for education, entertainment, news and documentary – each centering around creating environments that immerse the audience. We want to take you places you’ve never been before!
 
+If you would like more information about the GRID Lab's 360 Immersive Storytelling capabilities, please contact [Eric Williams](javascript:void(location.href='mailto:'+String.fromCharCode(119,105,108,108,105,97,101,50,64,111,104,105,111,46,101,100,117)+'?subject=GRID%20Lab%20-%20360%20Immersive%20Storytelling%20Request')).
+
 Basic Production Packages include:
 
 **Standard 360 video package**
