@@ -5,10 +5,13 @@ subtitle:
 
 
 The GRID Lab recently installed a 20 Camera [OptiTrack](http://www.optitrack.com) Motion Capture System. &nbsp;Our capture space is a 24' x 24' x 10' volume. &nbsp;
+{: .present-before-paste}
 
 ![](/uploads/versions/mocap---x----903-421x---.png)
+{: .present-before-paste}
 
 **Tech:**
+{: .present-before-paste}
 
 * 20x - OptiTrack Flex 13 Infrared Cameras&nbsp;
 * 2x - Small MoCap Suits
@@ -22,3 +25,7 @@ The GRID Lab recently installed a 20 Camera [OptiTrack](http://www.optitrack.com
 
 
 &nbsp;
+{: .present-before-paste}
+
+&nbsp;
+{: .present-before-paste}
