@@ -29,3 +29,5 @@ Game Consoles available (In most cases, we have multiple setups available):
 Game checkouts are available upon request.
 
 **Donations of Games and Game Consoles are appreciated. &nbsp;**
+
+* If you would like more information about the GRID Lab's Game Center or would like to donate, please contact [Anthony Zoccola](javascript:void(location.href='mailto:'+String.fromCharCode(122,111,99,99,111,108,97,97,64,111,104,105,111,46,101,100,117)+'?subject=GRID%20Lab%20-%20Game%20Center%20Request')).
