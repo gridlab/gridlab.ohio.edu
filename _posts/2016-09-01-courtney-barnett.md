@@ -11,4 +11,5 @@ The recordings feature tracks from Barnett’s critically acclaimed 2014 album S
 [Read more at WOUB's Website](http://woub.org/2016/09/01/a-virtual-reality-experience-courtney-barnett-at-nmf-16/#disqus_thread)
 
 [Experience it here*](https://www.youtube.com/watch?v=ujzHZJhO5u4)
+
 Requires [Google Chrome](https://www.google.com/chrome/)
