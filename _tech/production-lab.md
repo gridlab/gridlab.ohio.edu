@@ -17,6 +17,7 @@ If you would like to request a key code for the Production Lab, please contact A
 
 * 12x - 27" iMacs
 * 2x - 22" Wacom Cintiqs
+* Boxx Renderpro2
 * Animation Light Table
 * Conference Table
 * GRID Lab Book Library
