@@ -17,7 +17,7 @@ The IMI is a program designed to teach students how to become skilled leaders in
 
 [Learn more about PACE](https://www.ohio.edu/financialaid/employment/emp_pace.cfm)
 
-### Deadlines: 
+### Deadlines:
 
 To apply:   Sunday, April 10th
 Interviews scheduled:   April 11-22

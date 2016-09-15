@@ -6,14 +6,14 @@ subtitle: 360&deg Filmmaking
 
 360&deg storytelling at the GRID Lab will take you places you’ve never been before.&nbsp; Using multi-lens camera rigs and cutting edge VR software, we capture environments and characters – stories and points-of-view – in a brand new way.&nbsp; With 360&deg storytelling you become a part of the story.&nbsp; Recent projects include:
 
-* 360&deg live concert video for Courtney Barnett
-* 360&deg pano-journalism stories for WOUB Public Media
-* 360&deg short film “Redisappearing” premiered at the Georgetown Film Festival
-* 360&deg coverage of Hillary Clinton on the campaign trail
-* 360&deg training videos of a Level I Trauma Center in action
+* 360 live concert video for Courtney Barnett
+* 360 pano-journalism stories for WOUB Public Media
+* 360 short film “Redisappearing” premiered at the Georgetown Film Festival
+* 360 coverage of Hillary Clinton on the campaign trail
+* 360 training videos of a Level I Trauma Center in action
 
 
-The IMI produces 360&deg videos for education, entertainment, news and documentary – each centering around creating environments that immerse the audience. We want to take you places you’ve never been before!
+The IMI produces 360 videos for education, entertainment, news and documentary – each centering around creating environments that immerse the audience. We want to take you places you’ve never been before!
 
 If you would like more information about the GRID Lab's 360 Immersive Storytelling capabilities, please contact [Eric Williams](javascript:void(location.href='mailto:'+String.fromCharCode(119,105,108,108,105,97,101,50,64,111,104,105,111,46,101,100,117)+'?subject=GRID%20Lab%20-%20360%20Immersive%20Storytelling%20Request')).
 
