@@ -22,7 +22,7 @@ Basic Production Packages include:
 **Standard 360 video package**
 
 * Kodak SP360 4K Action Cam with two cameras*(360 capture)*
-* Tetrahedral, 3-Dio binaural and/or Standard microphone
+* Tetrahedral, 3Dio binaural and/or Standard microphone
 * Zoom audio recorder
 
 
@@ -30,21 +30,21 @@ Basic Production Packages include:
 
 * GOPRO Micro Kit with three cameras *(360 capture)*
 * Entaniya 250&deg; Fisheye Lenses
-* 3-Dio binaural and/or Tetrahedral microphones
+* 3Dio binaural and/or Tetrahedral microphones
 * Zoom audio recorder
 
 
 **Advanced 360 video package**
 
 * GOPRO Omni Kit with six cameras *(360 capture)*
-* 3-Dio binaural and/or Tetrahedral microphones
+* 3Dio binaural and/or Tetrahedral microphones
 * Zoom audio recorder
 
 
 **Lytro still package**
 
 * Lytro Illum Camera *(2D capture)*
-* 3-Dio binaural microphone
+* 3Dio binaural microphone
 * Zoom audio recorder
 
 

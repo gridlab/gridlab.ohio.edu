@@ -1,8 +1,12 @@
 name,title,email,status,img_path
-John Bowditch,Director GRID Lab,bowditch@ohio.edu,leadership,
-Eric Williams,Immersive Storytelling Director,willae2@ohio.edu,leadership,
-Josh Antonuccio,Audio Production Director,antonucn@ohio.edu,leadership,
-Anthony Zoccola,Project Coordinator,zoccola@ohio.edu,leadership,
-Kate Raney,MDIA Faculty Member,bowditch@ohio.edu,partner,
-Brian Plow,MDIA Faculty Member,bowditch@ohio.edu,partner,
-Student One,IMI Student,student@ohio.edu,student,
+John Bowditch,GRID Lab Director,bowditch@ohio.edu,leadership,
+Eric Williams,Immersive Storytelling Specialist,willae2@ohio.edu,leadership,
+Anthony Zoccola,Project Manager,zoccola@ohio.edu,leadership,
+Tyler Ayres, Art and Animation Specialist,ayres@ohio.edu,leadership,
+Josh Antonuccio,Audio Production Specialist,antonucn@ohio.edu,leadership,
+
+Beth Novak, Associate Professor School of Media Arts and Studies, novakb@ohio.edu,partner
+Brian Plow,Associate Professor School of Media Arts and Studies,plow@ohio.edu,partner,
+Kate Raney,Stop Motion Animation Specialist,raneyk@ohio.edu,partner,
+
+Austin Drozin,IMI Animator and Project Supervisor,ad961613@ohio.edu,student research team,
