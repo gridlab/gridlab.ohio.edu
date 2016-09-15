@@ -2,3 +2,58 @@
 title: 360 Immersive Storytelling
 subtitle:
 ---
+
+
+360**<sup>O</sup>** storytelling at the IMI will take you places you’ve never been before.&nbsp; Using multi-lens camera rigs and cutting edge VR software, we capture environments and characters – stories and points-of-view – in a brand new way.&nbsp; With 360**<sup>O</sup>** storytelling you become a part of the story.&nbsp; Recent projects include:
+
+* 360**<sup>O</sup>** live concert video for Courtney Barnett
+* 360**<sup>O</sup>** pano-journalism stories for WOUB Public Media
+* 360**<sup>O</sup>** short film “Redisappearing” premiered at the Georgetown Film Festival
+* 360**<sup>O</sup>** coverage of Hillary Clinton on the campaign trail
+* 360**<sup>O</sup>** training videos of a Level I Trauma Center in action
+
+
+The IMI produces 360**<sup>O</sup>** videos for education, entertainment, news and documentary – each centering around creating environments that immerse the audience. We want to take you places you’ve never been before!
+
+Basic Production Packages include:
+
+**Standard 360 video package**
+
+* Kodak SP360 4K Action Cam with two cameras*(360 capture)*
+* Tetrahedral, 3-Dio binaural and/or Standard microphone
+* Zoom audio recorder
+
+
+**Intermediate 360 video package**
+
+* GOPRO Micro Kit with three cameras *(360 capture)*
+* Entaniya 250&deg; Fisheye Lenses
+* 3-Dio binaural and/or Tetrahedral microphones
+* Zoom audio recorder
+
+
+**Advanced 360 video package**
+
+* GOPRO Omni Kit with six cameras *(360 capture)*
+* 3-Dio binaural and/or Tetrahedral microphones
+* Zoom audio recorder
+
+
+**Lytro still package**
+
+* Lytro Illum Camera *(2D capture)*
+* 3-Dio binaural microphone
+* Zoom audio recorder
+
+
+**Pano-Journalism still package**
+
+* Ricoh Theta S *(360 capture)*
+* Canon Rebel T5i with 18-55mm f/3.5-5.6 lens *(2D capture)*
+* 3-Dio binaural and/or standard microphone
+* Zoom audio recorder
+
+
+**Live Streaming 360 video package**
+
+* TBA 2017
