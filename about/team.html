@@ -24,7 +24,7 @@ subtitle:
 
 <h1>Student Team</h1>
 <ul>
-	{% assign students = site.data.team | where:"status","student team" | sort: "name" %}
+	{% assign students = site.data.team | where:"status","student" | sort: "name" %}
 	{% for member in students %}
 		{% include member.html member=member %}
 	{% endfor %}
