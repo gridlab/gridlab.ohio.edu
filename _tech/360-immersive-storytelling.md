@@ -1,6 +1,6 @@
 ---
-title: 360 Immersive Storytelling
-subtitle:
+title: 360**<sup>O</sup>** Immersive Storytelling
+subtitle: 360**<sup>O</sup>** Filmmaking
 ---
 
 
