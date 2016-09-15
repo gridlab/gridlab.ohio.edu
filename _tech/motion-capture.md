@@ -5,13 +5,12 @@ subtitle:
 
 
 The GRID Lab recently installed a 20 Camera [OptiTrack](http://www.optitrack.com) Motion Capture System. &nbsp;Our capture space is a 24' x 24' x 10' volume. &nbsp;
-{: .present-before-paste}
+
+If you would like more information about the GRID Lab's 360 Motion Capture System, please contact [John Bowditch](javascript:void(location.href='mailto:'+String.fromCharCode(98,111,119,100,105,116,99,104,64,111,104,105,111,46,101,100,117)+'?subject=GRID%20Lab%20-%20Motion%20Capture%20Request')).
 
 ![](/uploads/versions/mocap---x----903-421x---.png)
-{: .present-before-paste}
 
 **Tech:**
-{: .present-before-paste}
 
 * 20x - OptiTrack Flex 13 Infrared Cameras&nbsp;
 * 2x - Small MoCap Suits
@@ -22,10 +21,3 @@ The GRID Lab recently installed a 20 Camera [OptiTrack](http://www.optitrack.com
 * Autodesk MotionBuilder (Software)
 * Motive Body (Software)
 * Facial Motion Capture Tech (Coming Soon)
-
-
-&nbsp;
-{: .present-before-paste}
-
-&nbsp;
-{: .present-before-paste}
