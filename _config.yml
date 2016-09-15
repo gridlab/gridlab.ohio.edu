@@ -1,17 +1,17 @@
 title: GRID Lab
 description: The GRID Lab
-keywords: 
+keywords:
 paginate: 10
 baseurl: ''
 banner: /assets/images/gl-banner-2.jpg
 
 social:
   twitter: https://www.twitter.com/gridlab
-  facebook:
+  facebook: https://www.facebook.com/gridlab/
   github:
   linkded-in :
   google-plus:
-    
+
 collections:
   tech:
     permalink: /tech/:path/
@@ -32,13 +32,13 @@ defaults:
     values:
       layout: left-sidebar
       banner: /assets/images/gl-banner-1-small.jpg
-      
+
   - scope:
       type: projects
     values:
       layout: left-sidebar
       banner: /assets/images/gl-banner-2-small.jpg
-  
+
   - scope:
       type: posts
     values:
