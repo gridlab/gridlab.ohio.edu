@@ -43,4 +43,4 @@ defaults:
       type: posts
     values:
       banner: /assets/images/default-hacker.jpg
-      layout: post
+      layout: left-sidebar #post
