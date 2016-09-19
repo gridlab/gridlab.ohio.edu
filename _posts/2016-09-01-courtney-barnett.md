@@ -1,5 +1,6 @@
 ---
 title: A Virtual Reality Experience Courtney Barnett At NMF ’16
+banner: 
 ---
 June 2, Ohio University’s Immersive Media Initiative (IMI) faculty and students recorded a virtual reality video experience of Australian rocker Courtney Barnett’s 2016 Nelsonville Music Festival set. The Nelsonville Music Festival is a production of Stuart’s Opera House, a non-profit historic theater in Nelsonville, Ohio.
 
