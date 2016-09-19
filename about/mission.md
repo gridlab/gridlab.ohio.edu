@@ -3,6 +3,7 @@ permalink: /about/mission/
 layout: left-sidebar
 title: About GRID Lab
 subtitle:
+banner: /assets/images/gl-banner-1.jpg
 ---
 
 
