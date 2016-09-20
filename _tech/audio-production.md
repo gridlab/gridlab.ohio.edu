@@ -15,6 +15,7 @@ The IMI Audio Production Suite provides mixing and mastering audio resources for
 * Mixing and mastering for binaural and tetrahedral audio capture
 
 **Equipment Available:**
+
 * Yamaha Nuage System with Nuendo and Pro Tools
 * 16 Channel Analog I/O
 * Yamaha Dante Accelerator
@@ -68,6 +69,7 @@ IMI field recording packages provide the resources to capture experiential audio
 * Binaural and tetrahedral microphone units
 
 **Equipment**
+
 * Zoom H4N and Zoom F8 Field Recording Units
 * CoreAudio Tetrahedral Microphone packages with wind screen accessories and conversion materials
 * 3DIO Free Space Ear Simulation Binaural Packages
