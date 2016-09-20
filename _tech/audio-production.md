@@ -54,6 +54,7 @@ The whisper room provides an acoustically isolated and controlled environment fo
 * Audio asset development for virtual and augmented reality productions
 
 **Equipment:**
+
 * Universal Audio Apollo Twin interface
 * EV RE20 microphone
 
