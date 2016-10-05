@@ -1,5 +1,5 @@
 ---
-title: Blog-What is the Immersive Media Initiative?
+title: Blog - What is the Immersive Media Initiative?
 banner: /assets/images/team-1-small.jpg
 ---
 
