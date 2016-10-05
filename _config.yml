@@ -42,11 +42,11 @@ defaults:
   - scope:
       type: posts
     values:
-      banner: /assets/images/default-hacker.jpg
+      banner:
       layout: left-sidebar #post
 
   - scope:
       type: blogs
     values:
-      banner: /assets/images/default-hacker.jpg
+      banner:
       layout: left-sidebar #blogs
