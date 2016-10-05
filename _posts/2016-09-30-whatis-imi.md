@@ -1,5 +1,5 @@
 ---
-title: WHAT IS THE IMMERSIVE MEDIA INITIATIVE?
+title: What is the Immersive Media Initiative?
 ---
 
 Authored by: Haley Kolb
