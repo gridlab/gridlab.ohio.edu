@@ -1,6 +1,7 @@
 ---
 title: Blog: What is the Immersive Media Initiative?
 ---
+
 The future of immersive media is now, and with the help of the Immersive Media Initiative, OU’s GRID Lab will set a precedent of innovation in schools across the country.
 
 Authored by: Haley Kolb
