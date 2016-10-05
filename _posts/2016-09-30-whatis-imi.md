@@ -1,6 +1,7 @@
 ---
 title: What is the Immersive Media Initiative?
 ---
+The future of immersive media is now, and with the help of the Immersive Media Initiative, OU’s GRID Lab will set a precedent of innovation in schools across the country.
 
 Authored by: Haley Kolb
 
@@ -12,4 +13,4 @@ The IMI student team is selected based on their talents ranging from 3D modeling
 
 Along with a motion capture room, the GRID Lab proudly boasts virtual reality headsets, 360 degree and 4k quality cameras, Microsoft HoloLens developer kits, Apple, Boxx, and HP workstations and much more. Staff members are looking forward to acquiring even more equipment in the near future as the GRID Lab evolves as technology does.
 
-The future of interactive media is now, and with the help of the Interactive Media Initiative, OU’s GRID Lab will set a precedent of innovation in schools across the country.
+The future of interactive media is now, and with the help of the Immersive Media Initiative, OU’s GRID Lab will set a precedent of innovation in schools across the country.
