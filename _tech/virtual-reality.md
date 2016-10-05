@@ -1,6 +1,6 @@
 ---
 title: Virtual Reality
-subtitle:
+subtitle: /assets/images/team-1-small.jpg
 ---
 
 
