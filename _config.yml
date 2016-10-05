@@ -44,3 +44,9 @@ defaults:
     values:
       banner: /assets/images/default-hacker.jpg
       layout: left-sidebar #post
+
+  - scope:
+      type: blogs
+    values:
+      banner: /assets/images/default-hacker.jpg
+      layout: left-sidebar #blogs
