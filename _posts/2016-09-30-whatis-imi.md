@@ -1,10 +1,10 @@
 ---
-title: Blog - What is the Immersive Media Initiative?
+title: What is the Immersive Media Initiative?
 ---
 
 The future of immersive media is now, and with the help of the Immersive Media Initiative, OU’s GRID Lab will set a precedent of innovation in schools across the country.
 
-Authored by: Haley Kolb
+Authored by Haley Kolb
 
 Ohio University’s Scripps College of Communication has been expanding its technology over the past few years with the complete makeover of Scripps Hall and addition of the Schoonover Center. While Schoonover will be the College's new home, previous Scripps School of Journalism hub Scripps Hall has been transformed into a tech haven.
 
