@@ -1,6 +1,11 @@
 ---
+permalink: /about/blog/:path/
+layout: left-sidebar
 title: WHAT IS THE IMMERSIVE MEDIA INITIATIVE?
+subtitle:
+banner: /assets/images/gl-banner-1.jpg
 ---
+
 Authored by: Haley Kolb
 
 Ohio University’s Scripps College of Communication has been expanding its technology over the past few years with the complete makeover of Scripps Hall and addition of the Schoonover Center. While Schoonover will be the College's new home, previous Scripps School of Journalism hub Scripps Hall has been transformed into a tech haven.
