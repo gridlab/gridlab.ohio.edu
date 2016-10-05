@@ -1,9 +1,5 @@
 ---
-permalink: /about/blog/:path/
-layout: left-sidebar
 title: WHAT IS THE IMMERSIVE MEDIA INITIATIVE?
-subtitle:
-banner: /assets/images/gl-banner-1.jpg
 ---
 
 Authored by: Haley Kolb
