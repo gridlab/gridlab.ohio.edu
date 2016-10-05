@@ -56,6 +56,14 @@
 									{% endfor %}
 								</ul>
 							</li>
+							<li>
+								<a href="">Blog</a>
+								<ul>
+									{% for blog in site.blog %}
+										<li><a href="{{ blog.url }}">{{ blog.title }}</a></li>
+									{% endfor %}
+								</ul>
+							</li>
 
 							<li {% if current[1] == 'news' %}class="current"{% endif %}><a href="{{ site.baseurl }}/news">News</a></li>
 							<li><a href="https://www.assembla.com/login" target="_new" class="external">Assembla</a></li>
