@@ -1,5 +1,6 @@
 ---
 title: What is the Immersive Media Initiative?
+banner: /assets/images/team-1-small.jpg
 ---
 
 The future of immersive media is now, and with the help of the Immersive Media Initiative, OU’s GRID Lab will set a precedent of innovation in schools across the country.
