@@ -1,5 +1,5 @@
 ---
-title: Virtual Reality: An Emerging Game Changer In Healthcare
+title: Virtual Reality - An Emerging Game Changer In Healthcare
 banner: /assets/images/williams-scrubs.jpg
 ---
 
