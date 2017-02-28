@@ -35,7 +35,7 @@ Selected finalists will be notified by March 31st, and must be available for an 
 
 
 3D Character Animator
-=====
+-----
 Employment will begin May 2017.
 
 To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explanation (200 words or less) as to why you are a good fit to: John Bowditch (bowditch@ohio.edu). Applications due Friday, March 17th by 5:00pm.  Late Applications may not be considered.
@@ -66,7 +66,7 @@ Selected finalists will be notified by March 31st, and must be available for an 
 
 
 VR/AR Developer (2-3 Positions Available)
-=====
+-----
 Employment will begin May 2017.
 
 To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explanation (200 words or less) as to why you are a good fit to: John Bowditch (bowditch@ohio.edu). Applications due Friday, March 17th by 5:00pm.  Late Applications may not be considered.
@@ -93,7 +93,7 @@ Selected finalists will be notified by March 31st, and must be available for an 
 
 
 360 Video Production (2-3 Positions Available)
-=====
+-----
 Employment will begin May 2017.
 
 To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explanation (200 words or less) as to why you are a good fit to: John Bowditch (bowditch@ohio.edu). Applications due Friday, March 17th by 5:00pm.  Late Applications may not be considered.
@@ -122,7 +122,7 @@ Selected finalists will be notified by March 31st, and must be available for an 
 
 
 Immersive Audio Production - Studio
-=====
+-----
 Employment will begin May 2017.
 
 To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explanation (200 words or less) as to why you are a good fit to: John Bowditch (bowditch@ohio.edu). Applications due Friday, March 17th by 5:00pm.  Late Applications may not be considered.
@@ -141,7 +141,7 @@ To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explan
 Selected finalists will be notified by March 31st, and must be available for an interview the week of April 3rd.
 
 Immersive Audio Production – Field Recording
-=====
+-----
 Employment will begin May 2017.
 
 To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explanation (200 words or less) as to why you are a good fit to: John Bowditch (bowditch@ohio.edu). Applications due Friday, March 17th by 5:00pm.  Late Applications may not be considered.
