@@ -1,9 +1,9 @@
 ---
 title: GRID Lab Summer Student Employment Opportunities
-banner: /assets/images/imi-logo.jpg
+banner: /assets/images/team-1-small.jpg
 ---
 
-All positions are open to current Ohio University students.  Please contact [John Bowditch](mailto:bowditch@ohio.edu) with any questions.
+All positions are open to current Ohio University students.  Please contact John Bowditch (bowditch@ohio.edu) with any questions.
 
 3D Generalist (2-3 Positions Available)
 =====
