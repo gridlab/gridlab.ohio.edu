@@ -5,8 +5,6 @@ banner: /assets/images/team-1-small.jpg
 
 All positions are open to current Ohio University students.  Please contact John Bowditch (bowditch@ohio.edu) with any questions.
 
-***
-
 3D Generalist (2-3 Positions Available)
 -----
 Employment will begin May 2017.
@@ -35,7 +33,7 @@ To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explan
 
 Selected finalists will be notified by March 31st, and must be available for an interview the week of April 3rd.
 
-***
+
 
 3D Character Animator
 -----
