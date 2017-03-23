@@ -1,6 +1,6 @@
 ---
 title: GRID Lab Gears up for end of year events
-banner: /assets/images/team-1-small
+banner: /assets/images/team-1-small.jpg
 ---
 
 **By Haley Kolb:**
