@@ -1,0 +1,14 @@
+---
+title: GRID Lab Gears up for end of year events
+banner: /assets/images/team-1-small
+---
+
+**By Haley Kolb:**
+
+The last month of the school year is quickly approaching, and the GRID Lab is getting ready for some major events. There is an event for everyone at the end of Spring semester to showcase the hard work completed throughout the year. From scholarship announcements to the Student Expo, every week offers something exciting.
+
+March 18th was Experience Scripps Day, where high school students from across the state, and even out-of-state, visited OU to learn all about Scripps. These prospective students listened to speakers and toured Scripps facilities to try and narrow down their college choices. Throughout the day, they were welcomed to the GRID Lab for demonstrations of virtual and augmented reality technology. Attendees were encouraged to strap into a headset for games like “Dead and Buried” for Oculus and “Funhouse” for HTC Vive. A Microsoft Hololens was also available for demonstration. Student staff member, Andrea Swart, had a blast showing visitors how to manipulate animations, and place them around the room. She and co-worker Aaron Dimanna gave insight on what they believe to be the future of augmented reality; one idea being television screens replaced by white walls that allow you to project your augmented reality image or movie onto them. Many visitors had never tried virtual and augmented reality, expressing their amazement at the tech. “This is just too cool,” said one prospective student’s dad after playing “Dead and Buried.”
+
+Prospective students aren’t the only ones who get to celebrate the GRID Lab. Communications week is March 27-31, where students throughout Scripps get to celebrate and acknowledge the work of their peers, as well as hear from notable alumni. The GRID Lab is an even bigger part of Coms week this year, since receiving the Immersive Media Initiative grant. This grant is giving staff and students the resources to complete never-before-seen, innovative and immersive projects. Monday is dedicated to the Scripps College of Communication and the GRID Lab, and from 9am-3pm, students and staff from any part of Ohio University can come to the lab for demonstrations. This is a week for GRID Lab staff to impress those who may not know what work they do, and continue to establish the facility as an important part of Scripps.
+
+Lastly on the docket for the lab is the Student Research and Creative Activity Expo, April 6th. This is a university-wide expo, where students from across OU will be showcasing and demonstrating their research findings and projects worked on throughout the year. Over 500 presenters will be in attendance, and awards of excellence are given to deserving candidates. Students representing the GRID Lab will be participating in media-related categories, ending a year of innovation on a high note.
