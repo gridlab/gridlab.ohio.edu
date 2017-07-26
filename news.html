@@ -16,8 +16,7 @@ layout: default
 								<header class="major">
 									<h2>{{ page.title }}</h2>
 								</header>
-								<!--Removed limit: 4 to make sure no posts disappear over time. -->
-								{% for post in site.posts offset: 0 limit:  %}
+								{% for post in site.posts offset: 0  %}
 									<div class="row">
 										<section class="12u">
 											<div class="box post">
