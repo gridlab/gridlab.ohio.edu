@@ -1,43 +1,69 @@
-		<!-- Footer -->
-			<div id="footer">
-				<div class="container">
-					<div class="row ">
-						<div class="6u">
-							<div class="row collapse-at-2">
-								<section class="12u">
-									<h3>Visit or Contact the GRID Lab</h3>
-									<ul class="links"
-										<li>E.W Scripps Hall, Rooms 216-230</li>
-										<li>1.740.593.4789</li>
-									</ul>
-									<!-- Icons -->
-									<!--
+<!-- Footer -->
+<div id="footer">
+	<div class="container">
+		<div class="row ">
+			<div class="6u">
+				<div class="row collapse-at-2">
+					<section class="12u">
+						<h3>Visit or Contact the GRID Lab</h3>
+						<ul class="links" <li>E.W Scripps Hall, Rooms 216-230</li>
+							<li>1.740.593.4789</li>
+						</ul>
+						<!-- Icons -->
+						<!--
 									<ul class="icons" align="center">
 										{% if site.social.twitter %}<li><a href="http://twitter.com/gridlab" class="icon fa-twitter"><span class="label">Twitter - GRID Lab</span></a></li>{% endif %}
 										{% if site.social.facebook %}<li><a href="http://facebook.com/gridlab" class="icon fa-facebook"><span class="label">Facebook - GRID Lab</span></a></li>{% endif %}
 									-->
-										<!--{% if site.social.github %}<li><a href="{{ site.social.github }}" class="icon fa-github"><span class="label">GitHub</span></a></li>{% endif %}
+						<!--{% if site.social.github %}<li><a href="{{ site.social.github }}" class="icon fa-github"><span class="label">GitHub</span></a></li>{% endif %}
 										{% if site.social.linkded-in %}<li><a href="{{ site.social.linkded-in }}" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>{% endif %}
 										{% if site.social.google-plus %}<li><a href="{{ site.social.google-plus }}" class="icon fa-google-plus"><span class="label">Google+</span></a></li>{% endif %}
 									-->
-									</ul>
-								</section>
-							</div>
-						</div>
-						<section class="6u">
-							<h3>Location</h3>
-							<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
-							<div style='overflow:hidden;height:220px;width:350px;'><div id='gmap_canvas' style='height:220px;width:350px;'></div>
-							<div>
-								<small>
+						</ul>
+					</section>
+				</div>
+			</div>
+			<section class="6u">
+				<h3>Location</h3>
+				<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
+				<div style='overflow:hidden;height:220px;width:350px;'>
+					<div id='gmap_canvas' style='height:220px;width:350px;'></div>
+					<div>
+						<small>
 									<a href="http://www.embedgooglemaps.com/en/"</a>
 								</small>
-							</div>
-							<div>
-								<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
-							</div>
-							<script type='text/javascript'>function init_map(){var myOptions = {zoom:18,center:new google.maps.LatLng(39.3253829,-82.10099479999997),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(39.3253829,-82.10099479999997)});infowindow = new google.maps.InfoWindow({content:'<strong>The GRID Lab</strong><br>E.W. Scripps Hall<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
-						<!--	<h3>Get In Touch</h3>
+					</div>
+					<div>
+						<style>
+							#gmap_canvas img {
+								max-width: none!important;
+								background: none!important
+							}
+						</style>
+					</div>
+					<script type='text/javascript'>
+						function init_map() {
+							var myOptions = {
+								zoom: 18,
+								center: new google.maps.LatLng(39.3253829, -82.10099479999997),
+								mapTypeId: google.maps.MapTypeId.ROADMAP
+							};
+							map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
+							marker = new google.maps.Marker({
+								map: map,
+								position: new google.maps.LatLng(39.3253829, -82.10099479999997)
+							});
+							infowindow = new google.maps.InfoWindow({
+								content: '<strong>The GRID Lab</strong><br>E.W. Scripps Hall<br>'
+							});
+							google.maps.event.addListener(marker, 'click', function() {
+								infowindow.open(map, marker);
+							});
+							infowindow.open(map, marker);
+						}
+						google.maps.event.addDomListener(window, 'load', init_map);
+					</script>
+					<!--	<h3>Get In Touch</h3>
 						<form method="post" action="/">
 								<div class="row half collapse-at-2">
 									<div class="6u">
@@ -59,36 +85,32 @@
 										</ul>
 									</div>
 								</div>
-<<<<<<< Updated upstream
-								<input type="hidden" name="_to" value="bowditch@ohio.edu,zoccolaa@ohio.edu,chilcotr@ohio.edu">
-								<input type="hidden" name="_subject" value="GRID Lab Contact Form Submission">
-								<input type="text"   name= "_gotcha" style="display: none;">
-=======
 								<input type="hidden" name = "_to" value="bowditch@ohio.edu, zoccolaa@ohio.edu"/>
 								<input type="text" name= "_gotcha" style="display: none;"/>
->>>>>>> Stashed changes
 							</form>-->
-						</section>
-					</div>
-				</div>
-
-
-
-					<!-- Copyright -->
-						<div class="copyright">
-							<ul class="menu">
-								<li>&copy; Ohio University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li><li>Jekyllizing: <a href="https://www.rickychilcott.com">Ricky Chilcott</a></li>
-							</ul>
-						</div>
-				</div>
+			</section>
+			</div>
 		</div>
 
-		<!-- Scripts -->
-		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/util.js"></script>
-		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/assets/js/main.js"></script>
-	</body>
+		<!-- Copyright -->
+		<div class="copyright">
+			<ul class="menu">
+				<li>&copy; Ohio University. All rights reserved</li>
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+				<li>Jekyllizing: <a href="https://www.rickychilcott.com">Ricky Chilcott</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<!-- Scripts -->
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="{{ site.baseurl }}/assets/js/main.js"></script>
+</body>
+
 </html>
