@@ -50,9 +50,3 @@ defaults:
     values:
       banner:
       layout: left-sidebar #blogs
-
-  - scope:
-      type: bogs
-    values:
-      banner:
-      layout: left-sidebar #bogs
