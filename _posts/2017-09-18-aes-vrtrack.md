@@ -1,0 +1,24 @@
+---
+title: Exploring New Sonic Worlds - AES New York 2017's Game Audio and VR Track Events
+banner: /assets/images/aes_logo.png
+---
+
+**AES PRESS RELEASE: AES NEW YORK 2017**
+
+For the 143rd International Audio Engineering Society Convention, the traditional Game Audio Track is expanding into the Game Audio and VR (Virtual Reality) Track to reflect the growing importance of immersive sound and virtual reality audio. This year’s series of events, put together by co-chairs Steve Martz and Michael Kelly, incorporates the latest cutting-edge technologies and techniques used in some of today’s most popular, and growing, forms of entertainment.
+
+“The frenetic pace of ongoing developments in Game Audio, VR, AR, and other related technologies provides the foundation for the VR and Game Audio track in the technical program at this year’s AES New York Convention,” states Track co-chair Martz. “With a common goal of presenting the latest research findings and sharing the latest production tools and techniques known to those in the industry, the AES Convention is the place to come and get a better understanding of each role in the audio production and delivery chain for game and VR content,” Martz concludes.
+
+The new shared virtual reality action-adventure game Star Trek: Bridge Crew takes participants on a dazzling journey through uncharted areas of space, with astounding visuals, sound effects, battles and more. The “Star Trek: Bridge CrewVR Audio Post Mortem” session will feature Justin Drust of developer Red Storm Entertainment and his team as they discuss the contributions from the audio director, audio programmer and others in bringing this fantastic game to market from conception to completion.
+
+“The ‘Horrific’ Sound of Resident Evil 7: Biohazard” will take an in-depth look at the latest installment of the smash hit videogame series. Sound Designer Ken Usami and others from Capcom will talk about their methods in creating realistic high-fidelity sound, including their use of “musique concrète” – music constructed by mixing recorded sounds to create a wide variety of textures, tones and noises to deliver an uncomfortable and disturbing sonic environment.
+
+Video games are a worldwide phenomenon, as evidenced by the seminar “Gateways to the East: Music and Recording for Chinese Video Games.” Fei Yu, music supervisor for the NetEase multiplayer online game Revelation Online, will discuss the challenges of working with collaborators around the world, and the creative and technical processes of working with ethnic soloists and orchestras to create authentic world-music sounds. The Revelation soundtrack has won the BSOSpirit Jerry Goldsmith Award and the Tracksounds Genius Choice Vote for Best Score: Video Game.
+
+What does the aspiring VR audio professional need to know in order to excel in this new field, and how is higher education responding to the current skills gap? “Immersive Audio and VR/AR: A Traveler’s Guide to the Growing Landscape of Experiential Audio” will address these topics and more in a session led by Josh Antonuccio, lecturer at the School of Media Arts and Studies at Ohio University and co-creator of the Immersive Media Initiative, and Richard Warp, founder of music production company Intonic. A related panel, “State of the Art: Kickstart Your Career in Audio for Games, VR and Beyond” will discuss how to succeed in this field via the deep expertise and experiences shared by industry pros.
+
+With the new XBOX One and Windows’ addition of native platform-level support for spatial sound, games and other applications can now implement audio above, below and around the listener, as well as transparently render to multiple endpoints (speakers, headphones) and formats (Dolby Atmos, Windows Sonic for Headphones). This functionality opens up new technical and creative possibilities for game designers, as addressed in the talk “Spatial Sound for Console and PC Games,” hosted by Microsoft’s Robert Ridihalgh, Scott Selfon, and Mark Yeend, exploring a multitude of impactful and common use examples in this burgeoning field.
+
+Additional information about these and other AES Game Audio and VR Track events is available at [http://www.aes.org/events/143/gameaudio/](http://www.aes.org/events/143/gameaudio/).
+
+Register now and make plans to join us at AES New York 2017. The convention will be co-located with the independent and adjacent NAB Show New York 2017. Registration, at any level, for AES New York 2017 will give attendees access to the NAB Show New York exhibition floor and the content in the NAB Show New York’s Core Package (a $75 value). Register now, upgrade to the All Access registration for the Maximum Audio experience, including the Game Audio and VR Track, and reserve housing for the 143rd AES Convention at [http://aesshow.com](aesshow.com). Online advance registration discounts end soon.
