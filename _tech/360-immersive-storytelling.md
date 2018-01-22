@@ -4,7 +4,7 @@ subtitle: 360&deg Filmmaking
 ---
 
 
-360&deg storytelling at the GRID Lab will take you places you’ve never been before.&nbsp; Using multi-lens camera rigs and cutting edge VR software, we capture environments and characters – stories and points-of-view – in a brand new way.&nbsp; With 360&deg storytelling you become a part of the story.&nbsp; Recent projects include:
+360 deg storytelling at the GRID Lab will take you places you’ve never been before.&nbsp; Using multi-lens camera rigs and cutting edge VR software, we capture environments and characters – stories and points-of-view – in a brand new way.&nbsp; With 360&deg storytelling you become a part of the story.&nbsp; Recent projects include:
 
 * 360 live concert video for Courtney Barnett
 * 360 pano-journalism stories for WOUB Public Media
