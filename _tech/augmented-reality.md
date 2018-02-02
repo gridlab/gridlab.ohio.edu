@@ -18,6 +18,7 @@ Current Augmented Reality technology include:
 * [Developer Information](https://www.microsoft.com/microsoft-hololens/en-us)
 
 
+
 **<u>Google Tango</u>**
 
 * Google Tango Developer Tablet
@@ -26,4 +27,5 @@ Current Augmented Reality technology include:
 
 **<u>Meta 2 Development Kit (Coming Soon)</u>**
 
+* 1x Meta 2 AR Set
 * [Developer Information](https://www.metavision.com)

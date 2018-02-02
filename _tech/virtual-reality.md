@@ -17,6 +17,10 @@ Current Virtual Reality technology include:
 * 4x - Boxx Apexx 4 Workstations
 * 2x - HP Workstations
 * 8x - HTC Vives
+* 8x - Samsung Odyssey Mixed Reality HMD
+* 1x - HP Mixed Reality HMD
+* 1x - Asus Mixed Reality HMD
+* 1x - Fove Eye Tracking HMD
 * 2x - Oculus Rift (Commercial Version)
 * 5x - Oculus Rift Dev Kit 2s
 * 1x - OSVR HMD
