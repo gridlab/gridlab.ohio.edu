@@ -67,7 +67,7 @@ Employment will begin May 2018.
 
 To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explanation (200 words or less) as to why you are a good fit to: John Bowditch (bowditch@ohio.edu). **Applications due Friday, March 16th by 5:00pm.**  Late Applications may not be considered.
 
-Requirements:
+**Requirements:**
 * -Must be a currently enrolled student of Ohio University.
 * -Strong ability to problem solve and troubleshoot.
 * -Ability to work well on teams.
@@ -82,7 +82,7 @@ Requirements:
 * -Assist in overseeing that the lab tech and software is in working order.
 * -Help with equipment checkouts for students and faculty.
 
-Preferred:
+**Preferred:**
 * -Have experience with computer hardware.
 * -Successful PC builds, and upgrades are a plus!
 
