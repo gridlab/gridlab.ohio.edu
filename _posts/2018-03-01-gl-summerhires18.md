@@ -1,6 +1,6 @@
 ---
 title: GRID Lab 2018 Summer Student Employment Opportunities
-banner: /assets/images/team-1-small.jpg
+banner: /assets/images/vr-oculus.jpg
 ---
 
 All positions are open to current Ohio University students.  Please contact John Bowditch (bowditch@ohio.edu) with any questions.
@@ -8,7 +8,7 @@ All positions are open to current Ohio University students.  Please contact John
 3D Character Animator (2-3 Positions Available)
 -----
  Employment will begin May 2018.  
- 
+
 To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explanation (200 words or less) as to why you are a good fit to: John Bowditch (bowditch@ohio.edu). **Applications due Friday, March 16th by 5:00pm.**  Late Applications may not be considered.
 
 **Requirements:**
