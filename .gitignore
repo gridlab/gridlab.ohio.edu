@@ -2,3 +2,4 @@ _site/
 .sites/
 .sass-cache/
 .DS_Store
+.bundle
