@@ -135,8 +135,7 @@ To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explan
 
 Selected finalists will be notified by **March 23rd** and must be available for an interview the week of **March 26th.**
 
-Post-production, Research and/or Presentation Assistance for 360 Video Training Projects
-(Two Positions Available for **graduate students only**)
+Post-production, Research and/or Presentation Assistance for 360 Video Training Projects (Two Positions Available for **graduate students only**)
 ---
 
 This is a $3,000.00 stipend position for 20 hours/week.
@@ -162,8 +161,8 @@ To apply, e-mail your Resume, Portfolio URL (Seelio is fine), and a brief explan
 
 Selected finalists will be notified by **March 23rd** and must be available for an interview the week of **March 26th.**
 
-Eye Tracking in 360-Degree Video
-(Positions Available for graduate and/or undergraduate)
+
+Eye Tracking in 360-Degree Video (Positions Available for graduate and/or undergraduate)
 ---
 
 Employment will begin May 2019.
