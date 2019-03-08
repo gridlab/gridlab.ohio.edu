@@ -36,7 +36,7 @@ Selected finalists will be notified by **March 22nd** and must be available for 
 
 *****
 
-VR/AR Developer
+VR/AR Developers and Game Developers
 -----
 Employment will begin May 2019.
 
