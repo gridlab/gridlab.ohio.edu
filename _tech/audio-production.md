@@ -57,8 +57,8 @@ The whisper room provides an acoustically isolated and controlled environment fo
 
 * Universal Audio Apollo Twin interface
 * EV RE20 microphone
-* H2N Portable Ambisonic Recording Units
-* Sennheiser Amber Ambisonic Microphones
+* ZOOM H3-VR Virtual Reality Audio Recorder
+* Sennheiser Ambeo Ambisonic Microphones
 
 
 Immersive Audio Field Recording Packages
