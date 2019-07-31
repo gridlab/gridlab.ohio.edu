@@ -72,7 +72,7 @@ Marketing/Social Media Specialist
 *	-Strong ability to problem solve and troubleshoot.
 *	-Ability to work well on teams.
 *	-Must meet deadlines.
-* -Proven track record managing marketing and social media accounts **Portfolio required**
+* -Proven track record managing marketing and social media accounts - **Portfolio required**
 
 
 Graphic Designer
